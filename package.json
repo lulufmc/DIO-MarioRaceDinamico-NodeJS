@@ -1,0 +1,12 @@
+{
+  "name": "mariorace-nodejs-dio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luiz Felipe",
+  "license": "ISC",
+  "description": "Uma versão mais dinâmica do Projeto da corrida do Mario Kart, em Node JS, do bootcamp Formação Node Js Fundamentals."
+}
